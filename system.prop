@@ -1,0 +1,42 @@
+# DRM
+ro.netflix.bsp_rev=Q845-05000-1
+
+# Wi-Fi
+ro.wifi.channels=
+
+# Miscellaneous
+bt.max.hfpclient.connections=1
+net.bt.name=Android
+persist.sys.softsim.netmode=4g
+persist.sys.softsim.status=default,default
+persist.sys.softsim.type=default
+ro.build.2ndbrand=false
+ro.build.PDA=G9650ZHU9FUG2
+ro.build.changelist=21680091
+ro.build.display_build_number=true
+ro.build.official.release=true
+ro.build.selinux=1
+ro.build.version.security_index=1
+ro.build.version.sem=2903
+ro.build.version.sep=110500
+ro.cmc.device_type=pd
+ro.cmc.version=2.0
+ro.config.dmverity=G
+ro.config.iccc_version=3.0
+ro.config.ifaaversion=2
+ro.config.kap=true
+ro.config.knox=v30
+ro.config.knox.ucm=1
+ro.config.rm_preload_enabled=1
+ro.config.tima=1
+ro.config.timaversion=3.0
+ro.config.timaversion_info=Knox3.4_S.R.
+ro.hardware.chipname=SDM845
+ro.kernel.qemu=0
+ro.product_ship=true
+ro.system.build.version.sehi=2905
+ro.user_trial=FALSE
+ro.vendor.qti.va_aosp.support=1
+sys.config.mars.game_policy=true
+sys.config.phone_start_early=true
+
